@@ -8,6 +8,10 @@ You can run this project:
 
 git clone https://github.com/sambhav2410/Disillusioned
 
-### `npm start`
+### `Now run your project`
+
+npm install
+
+npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
